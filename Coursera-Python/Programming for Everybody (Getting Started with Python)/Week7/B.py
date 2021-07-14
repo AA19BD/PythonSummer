@@ -15,7 +15,6 @@ while True:
     elif number>largest:
         largest=number
     elif number<smallest:
-        smallest=number
-        
+        smallest=number 
 print("Maximum is",largest)
 print("Minimum is",smallest)

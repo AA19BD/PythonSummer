@@ -6,8 +6,7 @@ def computepay(h, r):
         above=h-40
         pay=(h-above)*r+(above*1.5*r)
         return pay
-    
-    
+      
 hrs = input("Enter Hours:")
 rp=input("Enter Rate:")
 try:
